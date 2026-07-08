@@ -28,6 +28,7 @@ body{
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0,1);
+    color: #000000;
 }
 
 h1, h2{
@@ -38,6 +39,7 @@ h1, h2{
 
 .section{
     margin-bottom: 25px;
+    color: #000000;
 }
 
 label{
