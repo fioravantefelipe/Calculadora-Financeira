@@ -63,7 +63,7 @@ input[type="number"], input[type="text"], select{
 
 button{
     background-color: #1c8a1c;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 8px;
     border: 1px solid #ccc;
     cursor: pointer;
