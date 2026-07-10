@@ -29,7 +29,7 @@ body{
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0,1);
     color: #000000;
-    text-shadow: 2px 2px 4px rgb(3, 232, 248);
+    text-shadow: 2px 2px 4px rgba(3, 240, 248, 0.692);
 }
 
 h1, h2{
